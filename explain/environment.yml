@@ -1,0 +1,13 @@
+name: explain
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - joblib=1.0.1
+  - numpy=1.19.2
+  - pandas=1.2.3
+  - python=3.8.8
+  - scikit-learn=0.24.1
+  - scipy=1.6.1
+  - skrebate=0.62
+  - zlib=1.2.11
